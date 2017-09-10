@@ -1,5 +1,5 @@
 import matplotlib.pyplot as plt
-import numpy as np
+# import numpy as np
 
 f1 = open("2014CS10220_reachabilityDist.txt")
 line = f1.readline()
