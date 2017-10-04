@@ -1,0 +1,6 @@
+Kd tree library source : https://github.com/jlblancoc/nanoflann
+I have used these functions : findNeighbors() and radiusSearch()
+
+Compile using : sh 2014CS10220_compile.sh
+Run file using : sh 2014CS10220_optics.sh <minPts> <epsilon>
+Plot the bar graph using : sh 2014CS10220_plot.sh
